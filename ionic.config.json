@@ -1,5 +1,7 @@
 {
   "name": "multi-rembo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
